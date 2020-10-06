@@ -2,8 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-	<RuntimeIdentifiers>win</RuntimeIdentifiers>
     <IsPackable>false</IsPackable>
+	<RuntimeIdentifiers>win</RuntimeIdentifiers>
+	<SelfContained>true</SelfContained>
   </PropertyGroup>
 
   <ItemGroup>
