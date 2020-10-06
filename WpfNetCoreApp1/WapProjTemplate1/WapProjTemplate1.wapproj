@@ -56,7 +56,6 @@
     <Content Include="Images\Wide310x150Logo.scale-200.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NUnitTestProject1\NUnitTestProject1.csproj" />
     <ProjectReference Include="..\WpfNetCoreApp1\WpfNetCoreApp1.csproj" />
   </ItemGroup>
   <Import Project="$(WapProjPath)\Microsoft.DesktopBridge.targets" />
