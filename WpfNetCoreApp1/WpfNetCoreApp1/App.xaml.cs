@@ -12,6 +12,5 @@ namespace WpfNetCoreApp1
 	/// </summary>
 	public partial class App : Application
 	{
-		
 	}
 }
